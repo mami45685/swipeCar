@@ -804,10 +804,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u3053\u3093\u306B\u3061\u308F"
+  m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ccea1c0db3a09d1419184ee5c012c1bf, type: 2}
-  m_sharedMaterial: {fileID: 2132182129261063068, guid: ccea1c0db3a09d1419184ee5c012c1bf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 1a8c3437180e55548887bed38f99b42c, type: 2}
+  m_sharedMaterial: {fileID: 1885816900782522443, guid: 1a8c3437180e55548887bed38f99b42c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
